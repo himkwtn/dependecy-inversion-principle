@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mongoose": "^5.13.14",
+    "neo4j-driver": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.7",
+    "jest": "^28.1.3"
+  }
+}
