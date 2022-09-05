@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "mongoose": "^5.13.14",
-    "neo4j-driver": "^4.4.7"
+    "neo4j-driver": "^4.4.7",
+    "typedi": "^0.10.0"
   },
   "devDependencies": {
     "@types/jest": "^28.1.7",
